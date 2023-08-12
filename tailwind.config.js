@@ -3,7 +3,7 @@ module.exports = {
   content: ["./src/**/*.js", "./index.html"],
   theme: {
     fontFamily: {
-      sans: ["Plus Jakarta Sans", "sans-serif"],
+      plus: ["Plus Jakarta Sans", "sans-serif"],
     },
     extend: {
       colors: {
