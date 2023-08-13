@@ -617,6 +617,10 @@ video {
   display: flex;
 }
 
+.hidden {
+  display: none;
+}
+
 .h-\[38px\] {
   height: 38px;
 }
@@ -757,6 +761,11 @@ video {
 .bg-blue {
   --tw-bg-opacity: 1;
   background-color: hsl(219 85% 26% / var(--tw-bg-opacity));
+}
+
+.bg-lightGrayishBlue1 {
+  --tw-bg-opacity: 1;
+  background-color: hsl(211 68% 94% / var(--tw-bg-opacity));
 }
 
 .p-4 {
